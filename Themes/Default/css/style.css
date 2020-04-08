@@ -1,0 +1,175 @@
+.HeaderFixedBar{
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:10px;
+  padding-bottom:10px;
+  background-color:white;
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  width:100%;
+  height:auto;
+}
+
+.HeaderLogoText{
+  color:#461D7C;
+  font-size:2.5em;
+  line-height:1.5em;
+  font-weight: bold;
+  font-family: Jazz LET, fantasy;
+}
+
+.HeaderLogoText:hover{
+  text-decoration:none;
+  color:#461D7C;
+  padding:20px;
+}
+
+.center{
+  text-align: center;
+}
+
+.pullLeft{
+  float:left;
+  display: inline-block;
+}
+
+.pullRight{
+  float:right;
+  display: inline-block;
+}
+
+.section {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  font-weight: bold;
+  font-family: Jazz LET, fantasy;
+  color:#461D7C;
+  font-size:1.25em;
+}
+
+.backgroundImage{
+  width:25px;
+  height:25px;
+  margin-left:5px;
+  margin-right:5px;
+}
+
+.themeButton{
+  background color:#461D7C;
+  color:#FDD023;
+  border-color: purple;
+  border-width: thin;
+  font-weight: 500;
+}
+
+.themeButton:hover{
+  background color:#FDD023;
+  color:#461D7C;
+  border-color: purple;
+  border-width: thin;
+}
+
+.pageNationArrow{
+  color:#9e9e9e;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+.forumBackground{
+  background-color:white;
+  color:black;
+}
+
+.forumModule{
+  background-color: white;
+  color: black;
+  overflow: none;
+}
+
+.forumMargin{
+  margin-bottom: 10px;
+}
+
+.forumPad{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.forumTable{
+  width:100%;
+  height:auto;
+  border: 1px solid #562e72;
+
+}
+
+.forumTable th{
+  padding:5px;
+}
+
+.forumTable tr{
+  border: 1px solid #562e72;
+}
+
+.forumTable td{
+  padding:5px;
+}
+
+.columnMargin{
+margin:5px;
+}
+
+.columnPad{
+  margin-top: 15px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+body{
+  background-color:#f2f2f2;
+  margin-top:15%;
+  margin-bottom:25px;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.a{
+  color:#663399;
+  text-decoration:none;
+}
+
+.a:hover{
+  color:#562e72;
+  font-weight:500;
+  text-decoration:none;
+}
+
+.h1{
+  font-size: 1.7em;
+  color:#562e72;
+}
+.h2{
+  font-size: 1.5em;
+  color:#562e72;
+}
+.h3{
+  font-size: 1.3em;
+  color:#562e72;
+}
+.h4{
+  font-size: 1.1em;
+  color:#562e72;
+}
+
+
+.catPad{
+  padding-left: 20%;
+  padding-right:20%;
+  background-color:white;
+}
