@@ -1,0 +1,85 @@
+.HeaderFixedBar{
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:10px;
+  padding-bottom:10px;
+  background-color:white;
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  width:100%;
+  height:auto;
+}
+
+.HeaderLogoText{
+  color:#461D7C;
+  font-size:1.2em;
+  line-height:1.2em;
+}
+
+.HeaderLogoText:hover{
+  color:#461D7C;
+  text-decoration:none;
+  font-size: 1.3em;
+  font-weight: 500;
+}
+
+.pullLeft{
+  float:left;
+  display: inline-block;
+}
+
+.pullRight{
+  float:right;
+  display: inline-block;
+}
+
+.themeButton{
+  background color:#461D7C;
+  color:#FDD023;
+  border-color: purple;
+  border-width: thin;
+  font-weight: 500;
+}
+
+.themeButton:hover{
+  background color:#FDD023;
+  color:#461D7C;
+  border-color: purple;
+  border-width: thin;
+}
+
+.pageNationArrow{
+  color:#9e9e9e;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+.forumBackground{
+  background-color:white;
+  color:black;
+}
+
+body{
+  background-color:#f2f2f2;
+  margin-top:75px;
+  margin-bottom:25px;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.a{
+  color:#663399;
+  text-decoration:none;
+}
+
+.a:hover{
+  color:#562e72;
+  font-weight:500;
+  text-decoration:none;
+}
+
+.pageNationBar{
+  padding:15px;
+}

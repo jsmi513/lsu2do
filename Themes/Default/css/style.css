@@ -1,4 +1,5 @@
 .HeaderFixedBar{
+  overflow: hidden;
   padding-left:20px;
   padding-right:20px;
   padding-top:10px;
@@ -80,27 +81,45 @@
   padding-right:5px;
 }
 
+.pageNationBar{
+  padding:15px;
+}
+
+.categoryModule{
+  background-color:white;
+  color:black;
+  overflow:none;
+  margin-top:20px;
+}
+
+.forumModule{
+  background-color:white;
+  color:black;
+  overflow:none;
+}
+
+.forumMargin{
+  margin-bottom:10px;
+}
+
+.forumPad{
+  padding-top:15px;
+  padding-bottom:15px;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+.columnPad{
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
 .forumBackground{
   background-color:white;
   color:black;
 }
 
-.forumModule{
-  background-color: white;
-  color: black;
-  overflow: none;
-}
-
-.forumMargin{
-  margin-bottom: 10px;
-}
-
-.forumPad{
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
 
 .forumTable{
   width:100%;
@@ -114,7 +133,7 @@
 }
 
 .forumTable tr{
-  border: 1px solid #562e72;
+  border: 1px solid #f2f2f2;
 }
 
 .forumTable td{
@@ -123,12 +142,6 @@
 
 .columnMargin{
 margin:5px;
-}
-
-.columnPad{
-  margin-top: 15px;
-  margin-left: 5px;
-  margin-bottom: 10px;
 }
 
 body{
@@ -150,26 +163,22 @@ body{
   text-decoration:none;
 }
 
-.h1{
-  font-size: 1.7em;
-  color:#562e72;
+.container {
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
 }
-.h2{
-  font-size: 1.5em;
-  color:#562e72;
-}
-.h3{
-  font-size: 1.3em;
-  color:#562e72;
-}
-.h4{
-  font-size: 1.1em;
-  color:#562e72;
-}
-
 
 .catPad{
   padding-left: 20%;
   padding-right:20%;
   background-color:white;
+}
+
+.newDiscussionText{
+  width:100%;
+  height:auto;
+  background-color:white;
+  margin-top:5px;
 }
