@@ -152,6 +152,15 @@ body{
   margin-right:10px;
 }
 
+footer {
+
+    justify-content: center;
+    background-color: #45a1ff;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+}
+
 .a{
   color:#663399;
   text-decoration:none;
